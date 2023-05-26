@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Dantas</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">I'm web development student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pancosta&label=Profile%20views&color=0e75b6&style=flat" alt="pancosta" /> </p>
 
