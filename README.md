@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Dantas</h1>
 <h3 align="center">I'm web development student</h3>
 <div align="center">
-<img width="200" height="200" src="https://giphy.com/gifs/NXecmEb2STEngHjPYo">
+  <img src="https://github.com/Pancosta/Pancosta/assets/25846267/0935f9a4-60d3-4dcf-9351-484ea6c7b6d0">
 </div>
 <p align="center">- 📫 How to reach me "gdc2@discente.ifpe.edu.br"</p>
 
