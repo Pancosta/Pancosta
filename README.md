@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Dantas</h1>
 <h3 align="center">I'm web development student</h3>
 <div align="center">
-[![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJhNzllZTEyMGI5Zjc2N2EzZWVlMmRiZTIzMThjOGZiYjE0YzE0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NXecmEb2STEngHjPYo/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJhNzllZTEyMGI5Zjc2N2EzZWVlMmRiZTIzMThjOGZiYjE0YzE0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NXecmEb2STEngHjPYo/giphy.gif)
-
+<img width="200" heigth="200" src="https://giphy.com/gifs/NXecmEb2STEngHjPYo">
 </div>
 <p align="center">- 📫 How to reach me "gdc2@discente.ifpe.edu.br"</p>
 
