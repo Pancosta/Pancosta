@@ -2,7 +2,7 @@
 <h3 align="center">I'm web development student</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pancosta&label=Profile%20views&color=0e75b6&style=flat" alt="pancosta" /> </p>
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/claudia-raia-curriculum-work-ready-job-gif-12268849"> 
+  <div class="tenor-gif-embed" data-postid="12268849" data-share-method="host" data-aspect-ratio="1.24691" data-width="100%"><img src="https://tenor.com/view/claudia-raia-curriculum-work-ready-job-gif-12268849">
 </p>
 - 📫 How to reach me **gdc2@discente.ifpe.edu.br**
 
