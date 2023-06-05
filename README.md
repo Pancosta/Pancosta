@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pancosta&show_icons=true&locale=en&layout=compact&theme=monokai" alt="pancosta" />
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pancosta&theme=monokai&layout=compact&line_height=40"/> </a>
 </p>
