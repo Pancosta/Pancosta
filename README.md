@@ -46,7 +46,7 @@ Currently working with Laravel, PHP, MySQL, Docker and Linux.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pancosta&theme=monokai&layout=compact&line_height=40" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pancosta&theme=monokai&layout=compact&line_height=40&exclude=CSS,Blade" />
 </p>
 
 <br>
